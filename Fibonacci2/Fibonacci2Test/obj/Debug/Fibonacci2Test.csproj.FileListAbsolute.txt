@@ -1,0 +1,8 @@
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Fibonacci2\Fibonacci2Test\obj\Debug\Fibonacci2Test.csprojResolveAssemblyReference.cache
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Fibonacci2\Fibonacci2Test\bin\Debug\Fibonacci2Test.dll
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Fibonacci2\Fibonacci2Test\bin\Debug\Fibonacci2Test.pdb
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Fibonacci2\Fibonacci2Test\bin\Debug\Fibonacci2.exe
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Fibonacci2\Fibonacci2Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Fibonacci2\Fibonacci2Test\bin\Debug\Fibonacci2.pdb
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Fibonacci2\Fibonacci2Test\obj\Debug\Fibonacci2Test.dll
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Fibonacci2\Fibonacci2Test\obj\Debug\Fibonacci2Test.pdb

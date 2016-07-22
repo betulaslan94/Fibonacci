@@ -1,0 +1,9 @@
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.Cache
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
